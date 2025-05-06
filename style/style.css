@@ -26,13 +26,15 @@ header nav li{
 header nav li a{
     color: #fff;
     padding: 0.6rem 8rem;
-    outline: none;
-    list-style: none; 
+   
+     text-decoration: none; 
+    
 }
 header .nav li .activE,
 header .nav li a:hover{
     color: #444;
     background: #cccccc;
+      text-decoration: none; 
 }
 /*--------COVER------------*/
 .cover{
@@ -58,6 +60,7 @@ header .nav li a:hover{
     bottom: 0;
     left: 0;
     margin-left: 20px;
+    padding: 5px;
     background: black;
 }
 .cover div p:nth-child(2){
