@@ -34,7 +34,7 @@ header .nav li .activE,
 header .nav li a:hover{
     color: #444;
     background: #cccccc;
-      text-decoration: none; 
+    text-decoration: none; 
 }
 /*--------COVER------------*/
 .cover{

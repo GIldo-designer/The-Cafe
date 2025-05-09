@@ -17,7 +17,7 @@
         }
     };
 
-    btn.addEventListener('click', validation,false)
+    btn.addEventListener('click', validation(),false)
     
 
      
